@@ -1,1 +1,1 @@
-# project-omnifood
+https://olegmechitashvili.github.io/project-omnifood/
